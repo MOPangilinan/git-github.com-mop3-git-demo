@@ -1,6 +1,5 @@
 def hello():
-    Hello )
+  print ("Hello World!!!")
 
-if ____:
-    print hello()
-main__name__ == Worldprint (
+if __name__ == "__main__":
+  print hello()
